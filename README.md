@@ -1,2 +1,3 @@
 # recipe-api-app
-Recipe Api App
+Recipe Api Project
+
